@@ -1,0 +1,16 @@
+# Node modules
+frontend/crackit/node_modules/
+backend/node_modules/
+
+# Environment files
+frontend/crackit/.env
+backend/.env
+
+# Build folders
+frontend/crackit/dist/
+frontend/crackit/build/
+backend/dist/
+backend/build/
+
+# Logs
+*.log
